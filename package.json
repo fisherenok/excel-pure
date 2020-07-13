@@ -1,0 +1,24 @@
+{
+  "name": "excel-pure",
+  "version": "1.0.0",
+  "description": "Pure JavaScript Excel Application",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fisherenok/excel-pure.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel"
+  ],
+  "author": "Vladislav Kozeletskiy <kozeletskiyvg@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fisherenok/excel-pure/issues"
+  },
+  "homepage": "https://github.com/fisherenok/excel-pure#readme"
+}
